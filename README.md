@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Java<br>- 🌱 I’m currently learning Java, Node.js<br>- 🤔 I’m looking for help with improve myself at coding <br>- 📫 How to reach me: utkuyesil189@gmail.com / utkuyesil.vercel.app<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm trying to pass the university entrance exam 🤧
+- 🔭 I’m currently working on Java<br>- 🌱 I’m currently learning Java, Node.js<br>- 🤔 I’m looking for help with improve myself in coding <br>- 📫 How to reach me: utkuyesil189@gmail.com / utkuyesil.vercel.app<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm trying to pass the university entrance exam 🤧
 
 
 ## 🌐 Socials:

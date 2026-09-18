@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Node.js and Javascript <br>- 🌱 I’m currently learning Java, Node.js<br>- 🤔 I’m looking for help with improve myself in coding <br>- 📫 How to reach me: utkuyesil189@gmail.com / utkysl.vercel.app<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm a Physics Engineering Student.
+- 🔭 I’m currently working on Node.js and Javascript <br>- 🌱 I’m currently learning Node.js<br>- 🤔 I’m looking for help with improve myself in coding <br>- 📫 How to reach me: utkuyesil189@gmail.com / https://utkysl-bio.vercel.app/ <br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm a Physics Engineering Student.
 
 
 ## 🌐 Socials:

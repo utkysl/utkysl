@@ -1,24 +1,98 @@
 # Utku Yeşil
-**Physics Engineering | Scientific Computing | Software Development**
 
-I am a Physics Engineering student at Ankara University, working at the intersection of physical sciences, software architecture, and numerical analysis. My focus is on utilizing computational methods to model physical systems and building scalable full-stack applications.
+**Physics Engineering Student @ Ankara University | Computational Physics | Scientific Computing**
 
-### 🔬 Current Focus
-*   **Computational Physics:** Developing a progressive digital laboratory (`computational-physics-lab`) to explore numerical integration, Monte Carlo simulations, and chaotic systems.
-*   **Hardware & Electronics:** Working with microcontrollers (Arduino, ESP8266) and analyzing experimental physical circuits.
-*   **Software Engineering:** Architecting full-stack applications (Node.js, React, C#) and building service marketplace platforms.
-*   **Community:** Active member of the Artificial Intelligence and Image Processing Community at Ankara University.
+I am a Physics Engineering student at Ankara University interested in the intersection of **physics, computation, and engineering**.
 
-### 💻 Technology Stack
+My current focus is on learning how physical systems can be modeled, simulated, and analyzed computationally while developing the mathematical and programming foundations required for research in modern physics.
 
-**Scientific Computing & Systems**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+## 🔬 Current Focus
 
-**Software Engineering & Web**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+* **Computational Physics** — numerical methods, differential equations, Monte Carlo simulations, and physical-system modeling
+* **Scientific Computing** — Python, numerical analysis, data visualization, and gradually C++
+* **Particle Physics** — neutrino physics, detector physics, and CERN-related research
+* **Electronics & Instrumentation** — microcontrollers, sensors, RF systems, and experimental physics
+* **Artificial Intelligence** — computer vision and machine learning applied to scientific problems
+* **Software Engineering** — building reliable software systems and applying engineering practices to scientific projects
 
-**Hardware & Tools**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🧪 Current Project
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-ye%C5%9Fil-095a79325/) [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://utkysl-bio.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkuyesil189@gmail.com)
+### Computational Physics Laboratory
+
+A long-term collection of computational physics experiments designed to build a strong foundation in scientific programming and numerical methods.
+
+Topics will progressively include:
+
+* Numerical integration
+* Differential equations
+* Harmonic and chaotic systems
+* Monte Carlo methods
+* Random processes and diffusion
+* Radioactive decay
+* Neutrino oscillations
+* Particle-physics simulations
+* Detector simulations
+
+→ `computational-physics-lab`
+
+## ⚙️ Technical Background
+
+**Scientific Computing**
+
+* Python
+* NumPy
+* Matplotlib
+* Scientific data analysis
+
+**Programming & Software Engineering**
+
+* C#
+* JavaScript / TypeScript
+* Node.js
+* React
+* Vue
+* Flutter / React Native
+
+**Electronics & Embedded Systems**
+
+* Arduino
+* ESP8266
+* Sensors & microcontrollers
+
+**Currently Learning**
+
+* C++
+* Numerical Methods
+* Scientific Computing
+* CMake
+* Linux for scientific development
+
+## 🚀 Selected Work
+
+### GoodJob
+
+A service marketplace platform that I am developing as a founder and software engineer, focusing on mobile applications, backend architecture, and scalable software systems.
+
+### Computational Physics Laboratory
+
+My ongoing transition from general software development toward scientific computing and computational physics.
+
+## 🎓 Education
+
+**Ankara University**
+Physics Engineering
+2025 – Present
+
+## 🌱 What I'm Building Toward
+
+My long-term goal is to combine **physics, computation, electronics, and software engineering** to work on research-oriented technical problems.
+
+Areas I am particularly interested in include:
+
+**Particle Physics · Computational Physics · Detector Physics · Scientific Computing · Electronics · Radio Astronomy · AI for Physics**
+
+## 📫 Connect
+
+* **Website:** https://utkysl-bio.vercel.app/
+* **LinkedIn:** https://linkedin.com/in/utku-ye%C5%9Fil-095a79325/
+* **Email:** [utkuyesil189@gmail.com](mailto:utkuyesil189@gmail.com)

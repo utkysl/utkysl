@@ -10,7 +10,7 @@ My current focus is on learning how physical systems can be modeled, simulated, 
 
 * **Computational Physics** — numerical methods, differential equations, Monte Carlo simulations, and physical-system modeling
 * **Scientific Computing** — Python, numerical analysis, data visualization, and gradually C++
-* **Particle Physics** — neutrino physics, detector physics, and CERN-related research
+* **Particle Physics** — neutrino physics, detector physics, and CERN-related research interests
 * **Electronics & Instrumentation** — microcontrollers, sensors, RF systems, and experimental physics
 * **Artificial Intelligence** — computer vision and machine learning applied to scientific problems
 * **Software Engineering** — building reliable software systems and applying engineering practices to scientific projects
@@ -63,7 +63,6 @@ Topics will progressively include:
 
 * C++
 * Numerical Methods
-* Scientific Computing
 * CMake
 * Linux for scientific development
 
